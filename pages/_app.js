@@ -1,5 +1,6 @@
 import "../styles/globals.css";
 
+//component === routers
 function MyApp({ Component, pageProps }) {
   return (
     <>
